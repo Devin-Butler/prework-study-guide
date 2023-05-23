@@ -1,15 +1,24 @@
-# prework-study-guide
+# Prework Study Guide Webpage
 
-## description 
-A study guide for course prework for ease of access.
+## Description
 
+Webpage to review notes on the topics covered by the prework guide
 
-The motivation for this project is to provide and easy way to study the topics covered in prework, as such I made this in order to study the currebt topics learned about from this prework.
+## Installation
 
-## usage
- To review notes on the topics covered in the prework
+N/A
 
+## Usage
 
+Each seaction contains notes on HTML, CSS, Git, and JavaScript. Utilize the DevTools console to see JavaScript running.
+
+## Credits
+
+N/A
 
 ## License
-MIT License 
+
+MIT License
+
+
+
