@@ -6,7 +6,7 @@ Webpage to review notes on the topics covered by the prework guide
 
 ## Installation
 
-N/A
+N/A-
 
 ## Usage
 
